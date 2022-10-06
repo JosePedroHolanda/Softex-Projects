@@ -1,0 +1,9 @@
+int main() {
+
+int vetor [ ] = {1,2,3,4,5,6,7,8,9}
+int * ptr; 
+
+int *X = (int*) malloc(10* sizeof(int));
+int *Y = (int*) realloc(p, 22* sizeof(int));
+free(): void free (void*ptr);
+}
