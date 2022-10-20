@@ -1,0 +1,49 @@
+A primeira lista no formato de árvore:
+
+            45
+     20           60
+  7     30           97
+4   8             81   100
+                          
+                          
+Adicionando o valor "91" na lista:
+
+            45
+     20           60
+  7     30           97
+4   8             91   100
+                81   
+                       
+                      
+Removendo o valor "7" dessa lista:
+
+            45
+     20           60
+  8     30           97
+4                 91   100
+                81    
+     
+                       
+A segunda lista no formato de árvore:
+
+
+            15          
+      6              18  
+  3       7       16    20         
+    4                          
+    
+    
+Adicionando o valor "91" na lista:
+
+            15          
+      6              18  
+  3       7       16    20         
+    4                      91    
+   
+
+Removendo o valor "4" dessa lista:
+
+            15          
+      6              18  
+  3       7       16    20         
+                           91 
