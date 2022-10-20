@@ -1,0 +1,5 @@
+Exemplos de grafos: 
+Rotas de avião de entre os aeroportos, os aeroportos são os vértices e as rotas são as arestas. Existem algoritmos para escolher as melhores rotas (arestas),
+para ter um maior ganho com o menor custo.
+
+Conexões entre roteadores, os roteadores se conectam entre entre eles como um grafo não direcionado, e os roteadores são os vértices.
