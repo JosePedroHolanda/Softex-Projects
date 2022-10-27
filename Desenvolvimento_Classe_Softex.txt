@@ -1,0 +1,18 @@
+--- Materiais--
+Panela;
+Atributos: Preta, aluminio, polishop.
+Métodos: Cozinhar, armazenar, fritar. 
+
+Tablet;
+Atributos: 12,4 polegadas, Samsung, S7 FE.
+Métodos: Pesquisar, Ler, Trabalhar.
+
+
+--- Abstratos ---
+Vida;
+Atributos: 1,65 cm, pardo, solteiro.
+Métodos: Alimentar, correr, trabalhar.
+
+Pensamento;
+Atrbutos: Longo, triste, lembrança.
+Métodos: Melhorar, refletir, esquecer.
