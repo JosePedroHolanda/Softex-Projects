@@ -1,0 +1,18 @@
+class Computador
+
+public string modelo
+private string tamanho
+
+public string getmodelo()
+public setmodelo()
+    return modelo
+
+public string gettamanho()
+public settamanho()
+    return tamanho
+
+metodo contruct
+desligar()
+desligar = 'of'
+
+fimmetodo
