@@ -1,0 +1,9 @@
+package br.com.caixa;
+public class extrato {
+      //declarações de atributos e métodos
+}
+
+package br.com.atendente;
+public class deposito {
+      //declarações de atributos e métodos
+}
