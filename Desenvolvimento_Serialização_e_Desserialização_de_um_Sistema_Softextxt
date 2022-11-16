@@ -1,0 +1,15 @@
+import java.io.Serializable;
+
+public class teste{
+
+    FileOutputStream = new FileOutputStream("c:\ teste.xls");
+    ObjectOutputStream = new ObjectOutputStream("teste.xls");
+    teste.writeObject("teste.xls");
+    teste.close();
+
+public class ReadObject{
+
+     FileInputStream "teste.xls"  = new FileInputStream("c:\ teste.xls");
+     ObjectInputStream "teste.xls" = new ObjectInputStream("teste.xls");
+     teste = ("teste.xls") "teste.xls".readObject();
+     teste.close();
